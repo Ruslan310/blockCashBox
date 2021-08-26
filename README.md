@@ -1,3 +1,3 @@
-#It`s My first App using by TypeScript
+#This is my first application using TypeScript
 
 #P.S. Sh1fter
